@@ -1,0 +1,15 @@
+.env
+*.db
+*.db-shm
+*.db-wal
+*.bak
+*.json.bak
+state.json
+users.json
+alerts.json
+__pycache__/
+*.pyc
+*.png
+*.jpg
+.venv/
+venv/
